@@ -18,3 +18,6 @@ Este es un gestor de contraseñas simple creado en Python. Permite almacenar y g
 - Instalar los paquetes requeridos:
   ```bash
   pip install cryptography
+
+
+En caso de error eliminar los archivos .key y .txt que se generan
